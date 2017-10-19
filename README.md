@@ -1,4 +1,4 @@
-# HtmlToPdfSambleNetCore
+# HtmlToPdfSampleNetCore
 
 This example use the  Library [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) to convert Html to PDF with .NET Core 2.0. 
 
